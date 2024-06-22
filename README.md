@@ -7,10 +7,10 @@ This repository contains the code and data for a mini-project on facial expressi
 
     |No.| Student Name    | Student ID |
     | --------| -------- | ------- |
-    |1|||
-    |2|||
-    |3|||
-    |4|||
+    |1|Phạm Tường Duy|21280011|
+    |2|Trần Nguyễn Bảo Lam|21280026|
+    |3|Hồ Ngô Trà My|21280033|
+    |4|Đặng Vũ Khoa|21280067|
 
 - The submission deadline is strict: **11:59 PM** on **June 22nd, 2024**. Commits pushed after this deadline will not be considered.
 
@@ -19,7 +19,7 @@ This repository contains the code and data for a mini-project on facial expressi
 The repository is organized into the following directories:
 
 - **/data**: This directory contains the facial expression dataset. You'll need to download the dataset and place it here before running the notebooks. (Download link provided below)
-- **/notebooks**: This directory contains the Jupyter notebook ```EDA.ipynb```. This notebook guides you through exploratory data analysis (EDA) and classification tasks.
+- **/notebooks**: This directory contains the Jupyter notebook ```EDAA.ipynb```. This notebook guides you through exploratory data analysis (EDA) and classification tasks.
 
 ## ⚙️ Usage
 
@@ -36,7 +36,7 @@ This project is designed to be completed in the following steps:
     3. Image Classification
     4. Evaluating Classification Performance 
 
-    Make sure to run all the code cells in the ```EDA.ipynb``` notebook and ensure they produce output before committing and pushing your changes.
+    Make sure to run all the code cells in the ```EDAA.ipynb``` notebook and ensure they produce output before committing and pushing your changes.
 
 5. **Commit and Push Your Changes**: Once you've completed the tasks outlined in the notebook, commit your changes to your local repository and push them to your forked repository on GitHub.
 
